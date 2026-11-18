@@ -306,6 +306,24 @@ const testimonialCard: CSSProperties = {
     </section>
 
 
+<!-- Black Friday -->
+    <section class="px-4 py-6">
+      <div class="max-w-3xl mx-auto rounded-2xl bg-black border border-verde-primario/50 p-5 shadow-lg shadow-verde-primario/10 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+        <div>
+          <span class="inline-block rounded-full border-2 border-verde-primario px-4 py-0.5 text-lg font-extrabold text-verde-primario">BLACK</span>
+          <p class="mt-3 text-lg md:text-xl font-bold text-white">3 consultas online + plano alimentar individualizado</p>
+        </div>
+        <a
+          class="shrink-0 inline-flex items-center justify-center gap-2 rounded-full bg-verde-primario px-6 py-3 font-semibold text-white hover:bg-verde-primario/90 transition-colors"
+          href="https://wa.me/5561992098384?text=Quero%20saber%20mais%20sobre%20a%20oferta%20Black!"
+          target="_blank"
+          rel="noopener nofollow"
+        >
+          Saiba mais <span aria-hidden="true">→</span>
+        </a>
+      </div>
+    </section>
+
 <!-- Chegou a hora de cuidar de você!  -->
     <section id="como-funciona" class="relative py-20 px-4 overflow-hidden">
       <!-- Background Images with Overlay -->
